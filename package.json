@@ -33,11 +33,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philiprehberger/ts-ts-enum.git"
+    "url": "git+https://github.com/philiprehberger/ts-enum.git"
   },
-  "homepage": "https://github.com/philiprehberger/ts-ts-enum#readme",
+  "homepage": "https://github.com/philiprehberger/ts-enum#readme",
   "bugs": {
-    "url": "https://github.com/philiprehberger/ts-ts-enum/issues"
+    "url": "https://github.com/philiprehberger/ts-enum/issues"
   },
   "author": "Philip Rehberger",
   "engines": {
