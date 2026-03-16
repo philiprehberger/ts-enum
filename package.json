@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/ts-enum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rich enums with methods labels and serialization",
   "type": "module",
   "main": "./dist/index.cjs",
