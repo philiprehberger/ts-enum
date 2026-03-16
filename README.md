@@ -1,6 +1,6 @@
 # @philiprehberger/ts-enum
 
-[![CI](https://github.com/philiprehberger/ts-enum/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-enum/actions/workflows/ci.yml)
+[![CI](https://github.com/philiprehberger/ts-enum/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/ts-enum/actions/workflows/publish.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-enum.svg)](https://www.npmjs.com/package/@philiprehberger/ts-enum)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-enum)](LICENSE)
 
@@ -57,6 +57,15 @@ Color.values();  // ['red', 'green', 'blue']
 | `.is(value)` | Type guard |
 | `.options()` | `{ value, label }[]` for UI selects |
 | `.meta(value)` | Get metadata for a value |
+
+
+## Development
+
+```bash
+npm install
+npm run build
+npm test
+```
 
 ## License
 
