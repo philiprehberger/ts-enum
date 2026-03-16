@@ -1,5 +1,9 @@
 # @philiprehberger/ts-enum
 
+[![CI](https://github.com/philiprehberger/ts-enum/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-enum/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-enum.svg)](https://www.npmjs.com/package/@philiprehberger/ts-enum)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-enum)](LICENSE)
+
 Rich enums with methods, labels, and serialization.
 
 ## Installation
