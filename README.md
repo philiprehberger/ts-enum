@@ -1,7 +1,7 @@
-# @philiprehberger/ts-enum
+# @philiprehberger/enum
 
 [![CI](https://github.com/philiprehberger/ts-enum/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-enum/actions/workflows/ci.yml)
-[![npm version](https://img.shields.io/npm/v/@philiprehberger/ts-enum.svg)](https://www.npmjs.com/package/@philiprehberger/ts-enum)
+[![npm version](https://img.shields.io/npm/v/@philiprehberger/enum.svg)](https://www.npmjs.com/package/@philiprehberger/enum)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-enum)](LICENSE)
 
 Rich enums with methods, labels, and serialization
@@ -9,13 +9,13 @@ Rich enums with methods, labels, and serialization
 ## Installation
 
 ```bash
-npm install @philiprehberger/ts-enum
+npm install @philiprehberger/enum
 ```
 
 ## Usage
 
 ```ts
-import { defineEnum, type EnumValue } from '@philiprehberger/ts-enum';
+import { defineEnum, type EnumValue } from '@philiprehberger/enum';
 
 const Status = defineEnum({
   ACTIVE:   { value: 'active',   label: 'Active' },
