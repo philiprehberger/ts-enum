@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+
+- Republish under new npm package name
+
 ## 0.1.3
 
 - Add Development section to README
