@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/ts-enum/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-enum/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/enum.svg)](https://www.npmjs.com/package/@philiprehberger/enum)
-[![License](https://img.shields.io/github/license/philiprehberger/ts-enum)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/ts-enum)](https://github.com/philiprehberger/ts-enum/commits/main)
 
 Rich enums with methods, labels, and serialization
 
@@ -59,7 +58,6 @@ Color.values();  // ['red', 'green', 'blue']
 | `.options()` | `{ value, label }[]` for UI selects |
 | `.meta(value)` | Get metadata for a value |
 
-
 ## Development
 
 ```bash
@@ -68,6 +66,24 @@ npm run build
 npm test
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/ts-enum)
+
+🐛 [Report issues](https://github.com/philiprehberger/ts-enum/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/ts-enum/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
